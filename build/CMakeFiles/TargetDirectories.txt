@@ -1,0 +1,3 @@
+/run/media/ethan706/Code/pluto/build/CMakeFiles/pluto.dir
+/run/media/ethan706/Code/pluto/build/CMakeFiles/edit_cache.dir
+/run/media/ethan706/Code/pluto/build/CMakeFiles/rebuild_cache.dir
